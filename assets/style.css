@@ -62,3 +62,48 @@
     padding-right: 80px;
     width: 70px;
 }
+.parte3 {
+    display: flex;
+    margin-right: 80px;
+}
+.parte3tex {
+    margin-top: 30px;
+}
+.nome h1 {
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
+}
+.cima {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 25px;
+}
+.primeiro {
+    max-width: 50%;
+}
+.parte3tex h2 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 18px;
+}
+.parte3tex p {
+    font-size: 18px;
+}
+.segundo {
+    max-width: 50%;
+}
+.baixo {
+    display: flex;
+    gap: 15px;
+}
+.terceiro {
+    max-width: 50%;
+}
+.quarto {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding-left: 50px;
+}
